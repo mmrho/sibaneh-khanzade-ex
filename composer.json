@@ -1,0 +1,16 @@
+{
+    "name": "mohammadreza/sibaneh",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Mohammadreza\\Sibaneh\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mmrho",
+            "email": "mmohammadrezaho@gmail.com"
+        }
+    ],
+    "require": {}
+}
